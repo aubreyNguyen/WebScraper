@@ -8,6 +8,8 @@ chmod +x scraper.py
 This program prints out the published homework and reading assignment titles from the course website. It scrapes with 1 worker and then with 4 workers, printing out the time it took.
 
 ## Screenshot
+<img width="532" height="379" alt="website_scraper_screenshot" src="https://github.com/user-attachments/assets/4caf24c6-caa3-4609-a40d-0ffec7529964" />
+
 
 ## Performance Impact
 ### Functional Programming
